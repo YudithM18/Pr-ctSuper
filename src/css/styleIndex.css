@@ -1,0 +1,29 @@
+
+body{
+    background-image: url(../img/fondo.avif);
+    background-size: 100%;
+}
+
+
+#carrito{
+    width: 100px;
+    height: 100px;
+}
+
+.fila{
+    display: grid;
+    grid-template-columns:150px 100px;
+    margin-left: 1000px;
+    font-size: x-large;
+}
+
+
+h1{
+    text-align: center;
+    font-size: xxx-large;
+    font-family: fantasy;
+}
+.tama{
+    width: 200px;
+    height: 200px; 
+}

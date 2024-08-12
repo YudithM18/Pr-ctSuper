@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/fondo2.jpg);
+    background-size: 100%;
+}
+
+:any-link{
+    text-decoration: none;
+    font-size: x-large;
+}
